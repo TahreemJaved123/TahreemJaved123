@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tahreem Javed 👋
 
-<!--
-**TahreemJaved123/TahreemJaved123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Machine Learning & NLP Enthusiast
+
+🌐 Django Web Developer
+
+## Skills
+
+* Python
+* SQL
+* Machine Learning
+* NLP
+* Django
+* TensorFlow
+* Git & GitHub
+
+## Projects
+
+* Django To-Do Application
+* Spam Detection System
+* Real Estate Chatbot
+* Gender Recognition System
+
+## Currently Learning
+
+* Deep Learning
+* Generative AI
+* Advanced NLP
+
+📫 Reach me: [ttahreem67@gmail.com]
